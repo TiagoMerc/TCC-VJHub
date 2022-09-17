@@ -14,3 +14,6 @@ O EMPREENDEDORISMO NO ÂMBITO DA UFVJM: PROPOSTA DE UMA  PLATAFORMA DIGITAL PARA
 
 #### Resumo
 
+**Header da primeira página**
+
+![Header primeira página](./assets/imgs/prints/headerPrimeriaPagina.png)
