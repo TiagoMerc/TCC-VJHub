@@ -1,0 +1,18 @@
+@media screen and (max-width: 375px) {
+
+    .text-main {
+        color: #FFFFFF;
+        font-size: 1.2rem;
+        font-weight: bold;
+        text-align: center;
+    }
+    
+    .text-description {
+     
+        color: #333333;
+        font-size: 0.6rem;
+        font-weight: lighter;
+        text-align: center;
+        margin: 1rem 1rem 0 1rem;
+    }
+}

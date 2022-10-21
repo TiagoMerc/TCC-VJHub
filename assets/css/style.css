@@ -29,21 +29,23 @@ a {
 }
 
 #logo-head {
-    font-size: 3rem;
+    font-size: 4rem;
     color: #FFFFFF;
     font-weight: bold;
-    margin-left: 3rem;
+    margin: 1rem;
 }
 
 .container nav {
     display: flex;
     position: relative;
     width: 940px;
+    margin-top: 2rem;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 2rem 18px;
+    margin: 0 0 2rem 2rem;
+
 }
 
 nav a {
@@ -54,9 +56,9 @@ nav a {
 
 .search {
     border-radius: 24px;
-    margin-top: 1.8rem;
+  /*  margin-top: 1.2rem;*/
     width: 500px;
-    height: 40px;
+    height: 30px;
     background-color: #FFFFFF;
     border-color: transparent;
 }
@@ -69,7 +71,7 @@ nav a {
 
 .text-main {
     color: #FFFFFF;
-    font-size: 2rem;
+    font-size: 3.4rem;
     font-weight: bold;
     text-align: center;
 }

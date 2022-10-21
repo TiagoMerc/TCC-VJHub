@@ -1,0 +1,29 @@
+@media screen and (max-width: 375px) {
+
+    .background-upper-blue {
+        height: 143px;
+    }
+
+    .container #logo-head {
+      font-size: 2.5rem;
+      margin-left: 6.5rem;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container {
+        justify-content: center;
+        align-items: center;
+        display: block;
+        font-size: 0.6rem;
+        margin: 0 0 0 0.4rem;
+        font-weight: bold;
+    }
+   
+    nav ul li a:hover{
+        color: rgb(3, 3, 41);
+  text-decoration:wavy ;
+  transition: all;
+        border-bottom: 1px solid #535858; 
+    }
+}
