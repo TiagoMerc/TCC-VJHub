@@ -1,8 +1,8 @@
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 489px) {
 
     .text-main {
         color: #FFFFFF;
-        font-size: 1.2rem;
+        font-size: 1.4rem;
         font-weight: bold;
         text-align: center;
     }

@@ -1,4 +1,4 @@
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 489px) {
 
     .background-upper-blue {
         height: 143px;
@@ -6,24 +6,29 @@
 
     .container #logo-head {
       font-size: 2.5rem;
-      margin-left: 6.5rem;
+      margin-left: 5.5rem;
       justify-content: center;
       align-items: center;
+      position:static;
     }
 
     .container {
-        justify-content: center;
-        align-items: center;
-        display: block;
-        font-size: 0.6rem;
-        margin: 0 0 0 0.4rem;
-        font-weight: bold;
+        display: inline-block;
+        font-size: 0.6rem;     
     }
    
+    nav ul li a{
+      margin: 3rem 0 2rem 5rem;
+      margin-left: 0rem;
+      padding: 0rem;
+      padding-left: 0rem;
+    }
+
+
     nav ul li a:hover{
         color: rgb(3, 3, 41);
-  text-decoration:wavy ;
-  transition: all;
+        text-decoration:wavy ;
+        transition: all;
         border-bottom: 1px solid #535858; 
     }
 }

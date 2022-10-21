@@ -36,15 +36,18 @@ a {
 }
 
 .container nav {
-    display: flex;
     position: relative;
     width: 940px;
-    margin-top: 2rem;
+}
+
+nav {
+
+    margin: 2rem 2rem 4rem 2rem;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 2rem 2rem;
+    margin: 7rem 2rem 2rem 2rem;
 
 }
 
